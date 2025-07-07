@@ -18,7 +18,7 @@ Using a labeled dataset of sonar signal frequencies, we aim to train a model tha
 
 ## 📁 Files
 - `Sonar Rock vs Mine Prediction.ipynb`: Main notebook
-- `sonar.all-data.csv`: Dataset from [UCI repository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks))
+- `data.csv`: The Dataset is already included in this repository for easy access.
 
 ## 🚀 How to Run
 1. Clone this repo
